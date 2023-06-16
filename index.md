@@ -1,3 +1,3 @@
 ##Charlestown Dogs Map 
 
-<iframe src="Ithaca-map.html" height="500" width="500"></iframe>
+<iframe src="trashcan_map_draft_4.html" height="500" width="500"></iframe>
